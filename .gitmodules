@@ -1,0 +1,3 @@
+[submodule "internal-project-docs"]
+	path = internal-project-docs
+	url = https://github.com/githubteacher/internal-project-docs
