@@ -2,3 +2,7 @@
 
 ## How to get started
 - Take a look at [the docs](/docs) for more information on running and testing.
+
+## Author
+- GitHubTeacher
+- brntbeer
